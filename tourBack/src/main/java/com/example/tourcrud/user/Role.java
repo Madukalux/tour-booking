@@ -1,0 +1,1 @@
+package com.example.tourcrud.user; public enum Role { ADMIN, USER }
